@@ -1,6 +1,6 @@
 {
-  "versionCode": 6,
-  "versionName": "1.0.5",
-  "hinweise": "Überall Abbrechen-Knopf unten, Warteliste nach Dringlichkeit eingefärbt",
+  "versionCode": 7,
+  "versionName": "1.0.6",
+  "hinweise": "Neuer Login, Mit Google anmelden, einheitliche Fußleisten, Warteliste nach Dringlichkeit",
   "apk": "https://github.com/Congamer69/ufercode-reservierungssystem-apk/raw/main/Reservierungssystem.apk"
 }
