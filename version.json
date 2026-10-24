@@ -1,6 +1,6 @@
 {
-  "versionCode": 3,
-  "versionName": "1.0.2",
-  "hinweise": "Tagesansicht einspaltig wie Website und iPad-App, native Reiter oben",
+  "versionCode": 4,
+  "versionName": "1.0.3",
+  "hinweise": "Moderneres Design, kompakte Reservierungszeilen, Belegung als Popup, Bereiche heute, Update direkt in der App",
   "apk": "https://github.com/Congamer69/ufercode-reservierungssystem-apk/raw/main/Reservierungssystem.apk"
 }
