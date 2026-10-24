@@ -1,6 +1,6 @@
 {
-  "versionCode": 5,
-  "versionName": "1.0.4",
-  "hinweise": "Tagesverlauf übersichtlicher, Auswertungskacheln gleich hoch, Tischzuordnung mit großem Plan",
+  "versionCode": 6,
+  "versionName": "1.0.5",
+  "hinweise": "Überall Abbrechen-Knopf unten, Warteliste nach Dringlichkeit eingefärbt",
   "apk": "https://github.com/Congamer69/ufercode-reservierungssystem-apk/raw/main/Reservierungssystem.apk"
 }
