@@ -1,6 +1,6 @@
 {
-  "versionCode": 2,
-  "versionName": "1.0.1",
-  "hinweise": "Navigation als Reiterleiste oben wie auf der Website",
+  "versionCode": 3,
+  "versionName": "1.0.2",
+  "hinweise": "Tagesansicht einspaltig wie Website und iPad-App, native Reiter oben",
   "apk": "https://github.com/Congamer69/ufercode-reservierungssystem-apk/raw/main/Reservierungssystem.apk"
 }
